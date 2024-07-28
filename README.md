@@ -11,8 +11,9 @@ Feel free to connect with me via email/LinkedIn on the web!
 Thanks for visiting!
 
 
-Template source: BootStrap
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
+
+Template source: BootStrap\
+Template Name: iPortfolio\
+Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/\
+Author: BootstrapMade.com\
 License: https://bootstrapmade.com/license/
